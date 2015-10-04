@@ -6,7 +6,7 @@
   :dependencies [
                  [org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-1844"]
-                 [core.async "0.1.0-SNAPSHOT"]
+                 [foundation/core.async "0.1.0"]
                  [crate "0.2.4"]
                  [jayq "2.4.0"]
                  [com.cemerick/piggieback "0.0.5"]
